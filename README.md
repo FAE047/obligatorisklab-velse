@@ -1,2 +1,2 @@
-# obligatorisklab-velse
-webutvikling
+# obligatorisklabovelse
+obligatorisklabovelse
